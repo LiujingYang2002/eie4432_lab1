@@ -30,6 +30,7 @@ nav ul li {
 }
 nav ul li a{
     text-decoration:none;
+    color:rgb(50, 50, 50);
 }
 nav ul li:hover {
     background-color: #cc8ec8;
